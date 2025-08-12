@@ -8,6 +8,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
 [![iOS Developer](https://img.shields.io/badge/iOS%20Developer-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/ios/)
+[![n8n](https://img.shields.io/badge/n8n-3B82F6?style=for-the-badge&logo=n8n&logoColor=white)](https://docs.n8n.io/)
 
 # 🚀 Bienvenido a Noxen Labs
 Este apartado tiene como propósito definir las **reglas de trabajo** que permitirán al equipo desarrollar de forma **ordenada, escalable y mantenible**, aplicando principios **SOLID** y utilizando una arquitectura base común para todos los proyectos.  
